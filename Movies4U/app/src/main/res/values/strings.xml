@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">Movies4U</string>
+    <string name="movie_poster_description">Movie Poster Here</string>
+    <string name="movie_name">Movie Title Here</string>
+    <string name="movie_release_year">Release Year Here</string>
+    <string name="movie_parcel">Movie Info</string>
+
+    <string name="movie_details_menu">Details</string>
+    <string name="trailer_link_menu">Watch Trailer</string>
+    <string name="director_wiki_menu">About the Director</string>
+    <string name="imdb_link_menu">IMDb</string>
+
+    <string name="runtime_label">Runtime: </string>
+    <string name="release_date_label">Release Date: </string>
+    <string name="director_label">Director: </string>
+    <string name="stars_label">Stars: </string>
+    <string name="rating_label">Rating</string>
+    <string name="imdb_rating_label">IMDb Rating</string>
+    <string name="rotten_tomatoes_rating_label">Rotten Tomatoes</string>
+
+
+    <string-array name="movie_names">
+        <item>Parasite</item>
+        <item>The Revenant</item>
+        <item>1917</item>
+        <item>Inside Out</item>
+        <item>The Martian</item>
+        <item>Get Out</item>
+        <item>Joker</item>
+        <item>The Irishman</item>
+        <item>The Lion King</item>
+        <item>Dunkirk</item>
+    </string-array>
+
+
+    <string-array name="release_years">
+        <item>2019</item>
+        <item>2015</item>
+        <item>2019</item>
+        <item>2015</item>
+        <item>2015</item>
+        <item>2017</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2019</item>
+        <item>2017</item>
+    </string-array>
+
+    <string-array name="release_dates">
+        <item>8 November 2019</item>
+        <item>8 January 2016</item>
+        <item>10 January 2020</item>
+        <item>19 June 2015</item>
+        <item>2 October 2015</item>
+        <item>24 February 2017</item>
+        <item>4 October 2019</item>
+        <item>27 November 2019</item>
+        <item>19 July 2019</item>
+        <item>21 July 2017</item>
+    </string-array>
+
+    <string-array name="runtimes">
+        <item>132 min</item>
+        <item>156 min</item>
+        <item>119 min</item>
+        <item>95 min</item>
+        <item>144 min</item>
+        <item>104 min</item>
+        <item>122 min</item>
+        <item>209 min</item>
+        <item>118 min</item>
+        <item>106 min</item>
+    </string-array>
+
+    <string-array name="directors">
+        <item>Bong Joon Ho</item>
+        <item>Alejandro González Iñárritu</item>
+        <item>Sam Mendes</item>
+        <item>Pete Docter, Ronnie Del Carmen</item>
+        <item>Ridley Scott</item>
+        <item>Jordan Peele</item>
+        <item>Todd Phillips</item>
+        <item>Martin Scorsese</item>
+        <item>Jon Favreau</item>
+        <item>Christopher Nolan</item>
+    </string-array>
+
+    <string-array name="casts">
+        <item>Kang-ho Song, Sun-kyun Lee, Yeo-jeong Jo</item>
+        <item>Leonardo DiCaprio, Tom Hardy, Will Poulter</item>
+        <item>Dean-Charles Chapman, George MacKay, Daniel Mays</item>
+        <item>Amy Poehler, Bill Hader, Lewis Black</item>
+        <item>Matt Damon, Jessica Chastain, Kristen Wiig</item>
+        <item>Daniel Kaluuya, Allison Williams, Bradley Whitford</item>
+        <item>Joaquin Phoenix, Robert De Niro, Zazie Beetz</item>
+        <item>Robert De Niro, Al Pacino, Joe Pesci</item>
+        <item>Donald Glover, Beyoncé, Seth Rogen</item>
+        <item>Fionn Whitehead, Barry Keoghan, Mark Rylance</item>
+    </string-array>
+
+    <string-array name="director_wiki_links">
+        <item>https://en.wikipedia.org/wiki/Bong_Joon-ho</item>
+        <item>https://en.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu</item>
+        <item>https://en.wikipedia.org/wiki/Sam_Mendes</item>
+        <item>https://en.wikipedia.org/wiki/Pete_Docter</item>
+        <item>https://en.wikipedia.org/wiki/Ridley_Scott</item>
+        <item>https://en.wikipedia.org/wiki/Jordan_Peele</item>
+        <item>https://en.wikipedia.org/wiki/Todd_Phillips</item>
+        <item>https://en.wikipedia.org/wiki/Martin_Scorsese</item>
+        <item>https://en.wikipedia.org/wiki/Jon_Favreau</item>
+        <item>https://en.wikipedia.org/wiki/Christopher_Nolan</item>
+    </string-array>
+    <string-array name="imdb_links">
+        <item>https://www.imdb.com/title/tt6751668/?ref_=fn_al_tt_1</item>
+        <item>https://www.imdb.com/title/tt1663202/?ref_=fn_al_tt_1</item>
+        <item>https://www.imdb.com/title/tt8579674/?ref_=fn_al_tt_1</item>
+        <item>https://www.imdb.com/title/tt2096673/?ref_=fn_al_tt_1</item>
+        <item>https://www.imdb.com/title/tt3659388/?ref_=fn_al_tt_1</item>
+        <item>https://www.imdb.com/title/tt5052448/?ref_=fn_al_tt_1</item>
+        <item>https://www.imdb.com/title/tt7286456/?ref_=fn_al_tt_1</item>
+        <item>https://www.imdb.com/title/tt1302006/?ref_=fn_al_tt_1</item>
+        <item>https://www.imdb.com/title/tt6105098/?ref_=fn_al_tt_1</item>
+        <item>https://www.imdb.com/title/tt5013056/?ref_=nv_sr_srsg_0</item>
+    </string-array>
+    <string-array name="trailer_links">
+        <item>https://www.youtube.com/watch?v=isOGD_7hNIY</item>
+        <item>https://www.youtube.com/watch?v=LoebZZ8K5N0</item>
+        <item>https://www.youtube.com/watch?v=gZjQROMAh_s</item>
+        <item>https://www.youtube.com/watch?v=yRUAzGQ3nSY</item>
+        <item>https://www.youtube.com/watch?v=ej3ioOneTy8</item>
+        <item>https://www.youtube.com/watch?v=DzfpyUB60YY</item>
+        <item>https://www.youtube.com/watch?v=zAGVQLHvwOY</item>
+        <item>https://www.youtube.com/watch?v=RS3aHkkfuEI</item>
+        <item>https://www.youtube.com/watch?v=7TavVZMewpY</item>
+        <item>https://www.youtube.com/watch?v=T7O7BtBnsG4</item>
+    </string-array>
+    <string-array name="imdb_ratings">
+        <item>8.6</item>
+        <item>8.0</item>
+        <item>8.5</item>
+        <item>8.2</item>
+        <item>8.0</item>
+        <item>7.7</item>
+        <item>8.6</item>
+        <item>8.0</item>
+        <item>6.9</item>
+        <item>7.9</item>
+    </string-array>
+
+    <string-array name="rotten_tomatoes_ratings">
+        <item>99%</item>
+        <item>79%</item>
+        <item>89%</item>
+        <item>98%</item>
+        <item>91%</item>
+        <item>98%</item>
+        <item>68%</item>
+        <item>96%</item>
+        <item>53%</item>
+        <item>93%</item>
+    </string-array>
+
+
+</resources>

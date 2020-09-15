@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/movie_row"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/poster_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/poster"
+            android:layout_width="200sp"
+            android:layout_height="200sp"
+            android:contentDescription="@string/movie_poster_description"
+            android:padding="5dp"
+            android:scaleType="centerCrop" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/poster_layout"
+        android:padding="5dp"
+        android:text="@string/movie_poster_description"
+        android:textColor="#000000"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/release"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/name"
+        android:layout_marginTop="10dp"
+        android:layout_toEndOf="@id/poster_layout"
+        android:padding="5dp"
+        android:text="@string/movie_release_year"
+        android:textSize="20sp"
+        android:textColor="#808080"
+        android:textStyle="italic" />
+
+</RelativeLayout>

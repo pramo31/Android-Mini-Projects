@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="movie_details_menu" type="id" />
+    <item name="trailer_link_menu" type="id" />
+    <item name="director_wiki_menu" type="id" />
+    <item name="imdb_link_menu" type="id" />
+</resources>
