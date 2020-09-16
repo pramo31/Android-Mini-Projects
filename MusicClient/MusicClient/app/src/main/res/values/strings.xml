@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicClient</string>
+    <string name="song_artist">Song Artist</string>
+    <string name="song_title_description">Song Title</string>
+    <string name="song_bitmap_description">Song Bitmap</string>
+    <string name="play_pause_button">play/pause button</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="connected_status">Connected to Music Central</string>
+    <string name="disconnected_status">Disconnected from Music Central</string>
+    <string name="show_songs">Retrieve Songs</string>
+    <string name="hide_songs">Remove Songs</string>
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MusicCentral</string>
+
+    <string-array name="songs_title">
+        <item>Runway Fashion</item>
+        <item>Swing Theory</item>
+        <item>Firefly</item>
+        <item>Cycles</item>
+        <item>Mirage</item>
+        <item>Cast of Pods</item>
+        <item>Triumph</item>
+        <item>Country Gentleman</item>
+        <item>Wonder Why</item>
+        <item>Glen Canyon</item>
+    </string-array>
+
+    <string-array name="songs_artist">
+        <item>Spence</item>
+        <item>Freedom Trail Studio</item>
+        <item>Quincas Moreira</item>
+        <item>The Grey Room</item>
+        <item>Chris Haugen</item>
+        <item>Doug Maxwell</item>
+        <item>Yung Logos</item>
+        <item>Endless Love</item>
+        <item>TrackTribe</item>
+        <item>Animal Liberation Orchestra</item>
+    </string-array>
+
+    <string-array name="songs_url">
+        <item>https://www.youtube.com/audiolibrary_download?vid=3fbd8a22b55ae9c2</item>
+        <item>https://www.youtube.com/audiolibrary_download?vid=50a1631a168fe81b</item>
+        <item>https://www.youtube.com/audiolibrary_download?vid=79100e44c826e2f7</item>
+        <item>https://www.youtube.com/audiolibrary_download?vid=686ff3b4910ca330</item>
+        <item>https://www.youtube.com/audiolibrary_download?vid=e4ccaa7d6624e023</item>
+        <item>https://www.youtube.com/audiolibrary_download?vid=1a66be3369a4f8f7</item>
+        <item>https://www.youtube.com/audiolibrary_download?vid=6459c206e6764a56</item>
+        <item>https://www.youtube.com/audiolibrary_download?vid=51b2c2f30c1f8c09</item>
+        <item>https://www.youtube.com/audiolibrary_download?vid=7f8775c82bb279dd</item>
+        <item>https://www.youtube.com/audiolibrary_download?vid=154c28a7be031c89</item>
+    </string-array>
+</resources>

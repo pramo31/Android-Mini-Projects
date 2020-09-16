@@ -1,5 +1,16 @@
 # Android Mini Projects
 
+
+## **Versions Used**
+
+Android: *Android 9* (API 28)
+
+Android Studio: *3.6.1*
+
+Emulated Device: *Google Pixel 3 XL*
+
+<br/>
+
 ## [Movies4U](Movies4U/)
 
 - This android application maintains a Database of movies and some movie info.
@@ -18,7 +29,7 @@
 
 ## [Travel Companion](TravelCompanion/)
 
-- Two Android application (Client and Receiver/Server).
+- Two Android applications (Client and Receiver/Server).
 - Permission based broadcasting from the client app opens the Service App.
 - Client App redirects to the service app, based on what kind of service the user clicks on (Attractions/Restaurants). The list of cities (Chicago in the basic version) can be easily extended
 
@@ -37,3 +48,19 @@
 <br/><br/>
 
 ## [Music Service Client](MusicClient/)
+
+- Two Android applications (Client and Server).
+- Permission based broadcast service where the service app provides a music stream that can be fetched by the client to play once it is connected to the server. The Client uses Binding to stay connected to the service.
+- The service app runs in the background.
+- The Music client has two states, Connected and Disconnected. The client is able to retrieve the songs list along with info (from the service) only after it connects to the service.
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Menu](images/MusicClientDisconnected.PNG)  |  ![Menu](images/MusicClientConnected.PNG)
+
+<br/>
+
+- Once the Client connects to the service, it can play any song from the list returned.
+
+
+![Menu](images/MusicClientPlaying.PNG)
