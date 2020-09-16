@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Explore Chicago</string>
+
+    <string name="broadcast_permission_name">edu.uic.cs478.sp2020.project3</string>
+    <string name="broadcast_permission_label">Broadcast Intent</string>
+    <string name="broadcast_permission_desc">access apps that display info about Chicago</string>
+
+    <string name="attractions_intent_name">edu.uic.cs478.pramodh.attractions</string>
+    <string name="restaurants_intent_name">edu.uic.cs478.pramodh.restaurants</string>
+    <string name="attractions_menu_text">Attractions</string>
+    <string name="restaurants_menu_text">Restaurants</string>
+    <string name="splash_text">Explore the visual and culinary delights of Chicago!</string>
+
+    <string-array name="attractions">
+        <item>Millennium Park</item>
+        <item>Lincoln Park Zoo</item>
+        <item>Navy Pier</item>
+        <item>Art Institute of Chicago</item>
+        <item>The Field Museum</item>
+        <item>Chicago Riverwalk</item>
+        <item>Shedd Aquarium</item>
+        <item>Museum of Science and Industry</item>
+        <item>Chicago Theatre</item>
+        <item>360 CHICAGO</item>
+        <item>Adler Planetarium</item>
+        <item>Willis Tower Skydeck</item>
+        <item>Chicago History Museum</item>
+    </string-array>
+
+    <string-array name="attractions_links">
+        <item>https://www.chicago.gov/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>https://www.lpzoo.org</item>
+        <item>https://www.navypier.org</item>
+        <item>https://www.artic.edu</item>
+        <item>https://www.fieldmuseum.org</item>
+        <item>https://www.chicagoriverwalk.us</item>
+        <item>https://www.sheddaquarium.org</item>
+        <item>https://www.msichicago.org</item>
+        <item>https://www.msg.com/the-chicago-theatre?cmp=van_chicagotheatre</item>
+        <item>https://www.360chicago.com</item>
+        <item>https://www.adlerplanetarium.org</item>
+        <item>https://www.theskydeck.com</item>
+        <item>https://www.chicagohistory.org</item>
+    </string-array>
+
+    <string-array name="restaurants">
+        <item>Ocean Prime - Chicago</item>
+        <item>Lou Malnati\'s Pizzeria</item>
+        <item>Giordano\'s</item>
+        <item>Acanto</item>
+        <item>The Dearborn</item>
+        <item>The Gage</item>
+        <item>Revival Food Hall</item>
+        <item>Oriole</item>
+        <item>Roister</item>
+        <item>Cherry Circle Room</item>
+        <item>Everest</item>
+    </string-array>
+
+    <string-array name="restaurants_links">
+        <item>https://www.ocean-prime.com/locations-menus/chicago</item>
+        <item>https://www.loumalnatis.com/chicago-lincoln-park</item>
+        <item>https://www.giordanos.com/</item>
+        <item>https://www.acantochicago.com/</item>
+        <item>https://www.thedearborntavern.com/</item>
+        <item>https://www.thegagechicago.com/</item>
+        <item>https://www.revivalfoodhall.com/</item>
+        <item>https://www.oriolechicago.com/</item>
+        <item>https://www.roisterrestaurant.com/</item>
+        <item>https://www.lsdatcaa.com/cherry-circle-room#openmodal</item>
+        <item>https://www.everestrestaurant.com/</item>
+    </string-array>
+</resources>

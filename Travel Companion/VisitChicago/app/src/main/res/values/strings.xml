@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Visit Chicago</string>
+    <string name="chicago_flag_description">The four star flag of Chicago</string>
+
+    <string name="attractions_text">Attractions</string>
+    <string name="attractions_text_body">Get to know the best places to visit in Chicago</string>
+    <string name="restaurants_text">Restaurants</string>
+    <string name="restaurants_text_body">Learn about the best restaurants in Chicago and their delicacies</string>
+    <string name="attractions_button_text">Explore Attractions</string>
+    <string name="restaurants_button_text">Explore Restaurants</string>
+
+    <string name="attractions_toast">Explore Chicago\'s Attractions!</string>
+    <string name="restaurants_toast">Dine at Chicago\'s Finest</string>
+    <string name="heading_text">Plan your visit to Chicago</string>
+
+    <string name="broadcast_permission_name">edu.uic.cs478.sp2020.project3</string>
+    <string name="broadcast_permission_label">Broadcast Intent</string>
+    <string name="broadcast_permission_desc">access apps that display info about Chicago</string>
+    <string name="permission_not_granted_to_broadcast_intent">Please grant permission to explore Chicago</string>
+
+    <string name="attractions_intent_name">edu.uic.cs478.pramodh.attractions</string>
+    <string name="restaurants_intent_name">edu.uic.cs478.pramodh.restaurants</string>
+</resources>
