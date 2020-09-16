@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-## [Travel Companion](Travel Companion/)
+## [Travel Companion](TravelCompanion/)
 
 - Two Android application (Client and Receiver/Server).
 - Permission based broadcasting from the client app opens the Service App.
@@ -36,4 +36,4 @@
 
 <br/><br/>
 
-## [Music Service Client](Music Client/)
+## [Music Service Client](MusicClient/)
